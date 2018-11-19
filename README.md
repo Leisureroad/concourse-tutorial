@@ -28,5 +28,5 @@ mkdocs serve
 
 View the site and live changes at https://localhost:8000.
 
-updated...V0.1
+updated...V0.2
 
